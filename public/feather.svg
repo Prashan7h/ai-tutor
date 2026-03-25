@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect width="200" height="200" rx="20" fill="#FEF3C7"/>
+  <g transform="translate(50, 30)">
+    <!-- Feather quill -->
+    <path d="M50 10 C70 30, 90 60, 95 140" stroke="#92400E" stroke-width="2.5" fill="none"/>
+    <!-- Feather barbs left -->
+    <path d="M50 10 C30 20, 20 40, 25 60 C30 50, 40 40, 50 35" fill="#F59E0B" opacity="0.8"/>
+    <path d="M55 35 C35 45, 20 65, 25 85 C30 75, 45 60, 55 55" fill="#FBBF24" opacity="0.8"/>
+    <path d="M60 55 C40 70, 25 90, 35 110 C40 95, 50 80, 65 75" fill="#F59E0B" opacity="0.7"/>
+    <path d="M70 75 C50 90, 40 110, 50 130 C55 115, 65 100, 75 95" fill="#FBBF24" opacity="0.6"/>
+    <!-- Feather barbs right -->
+    <path d="M50 10 C70 15, 85 30, 80 50 C75 40, 65 35, 50 35" fill="#D97706" opacity="0.8"/>
+    <path d="M55 35 C75 40, 90 55, 85 75 C80 65, 70 55, 55 55" fill="#F59E0B" opacity="0.8"/>
+    <path d="M60 55 C80 65, 95 80, 85 100 C80 90, 75 80, 65 75" fill="#D97706" opacity="0.7"/>
+    <path d="M70 75 C88 85, 95 100, 90 120 C85 108, 80 98, 75 95" fill="#F59E0B" opacity="0.6"/>
+  </g>
+  <!-- Label -->
+  <text x="100" y="185" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="600" fill="#92400E">Feather</text>
+</svg>
